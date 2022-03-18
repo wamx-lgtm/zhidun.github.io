@@ -1,3 +1,3 @@
 # wamx.github.io
-test1
+test1 \n
 author:jwq
